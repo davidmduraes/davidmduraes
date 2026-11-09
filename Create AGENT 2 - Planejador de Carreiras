@@ -1,1 +1,404 @@
+🧩 VISÃO DO DIA A DIA
 
+
+Como é o trabalho de um(a) desenvolvedor(a) de software:
+
+
+- Entender problemas e transformar requisitos em funcionalidades.
+- Escrever e revisar código para aplicações e sites.
+- Criar interfaces com HTML, CSS e JavaScript.
+- Desenvolver serviços e APIs usando Python.
+- Consultar bancos de dados, testar soluções e corrigir erros em equipe.
+
+
+🧠 MAPA DE SKILLS
+
+
+CORE SKILLS (essenciais):
+
+
+- Lógica de programação, algoritmos e fundamentos de Python.
+- HTML, CSS e JavaScript para criar interfaces web.
+- SQL e fundamentos de bancos de dados relacionais.
+
+
+NICE-TO-HAVE (complementares):
+
+
+- Testes automatizados e noções de qualidade de software.
+- Comunicação, leitura de documentação e trabalho em equipe.
+
+
+FERRAMENTAS E TECNOLOGIAS:
+
+
+- Python, Flask e SQLite; depois, noções de PostgreSQL.
+- HTML, CSS, JavaScript e, como conteúdo extra, React.
+- Git, GitHub e Visual Studio Code.
+
+
+📅 ROADMAP DE 90 DIAS
+
+
+ADAPTADO PARA: 18 horas/semana. Reserve cerca de 6 horas para estudar conceitos, 10 para praticar e 2 para revisar, documentar o progresso e preparar-se para entrevistas.
+
+
+MÊS 1 - FUNDAMENTOS
+
+
+SEMANA 1-2:
+
+
+- Estudar lógica de programação: variáveis, tipos, condições, repetições e funções; praticar com exercícios simples em Python.
+- Instalar e usar VS Code e Git; criar um perfil no GitHub e publicar os primeiros exercícios.
+
+
+SEMANA 3-4:
+
+
+- Aprender listas, dicionários, arquivos e tratamento básico de erros em Python.
+- Estudar HTML e CSS e criar uma página pessoal responsiva com informações sobre seus estudos.
+
+
+MÊS 2 - PRÁTICA
+
+
+SEMANA 5-6:
+
+
+- Aprender JavaScript básico, manipulação do DOM e eventos; adicionar interações à página criada.
+- Estudar SQL: tabelas, consultas, filtros, ordenação e operações básicas de cadastro, consulta, atualização e exclusão.
+
+
+SEMANA 7-8:
+
+
+- Aprender os fundamentos de Flask e criar rotas para uma aplicação web simples.
+- Conectar a aplicação a um banco SQLite e praticar validação de dados e tratamento de erros.
+
+
+MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+
+
+SEMANA 9-10:
+
+
+- Desenvolver o projeto de portfólio proposto abaixo, integrando front-end, Python e banco de dados.
+- Escrever testes básicos para as principais funcionalidades e corrigir os problemas encontrados.
+
+
+SEMANA 11-12:
+
+
+- Finalizar o projeto, melhorar a documentação e publicar o código no GitHub; preparar uma demonstração ou instruções para executar localmente.
+- Treinar respostas para entrevistas, revisar os fundamentos e praticar explicar suas decisões técnicas.
+
+
+🚀 PROJETO DE PORTFÓLIO
+
+
+PROJETO: Organizador de Tarefas de Estudo
+
+
+O QUE FAZER:
+
+Crie uma aplicação web para cadastrar tarefas de estudo, organizá-las por matéria ou prioridade e acompanhar se foram concluídas. Use HTML, CSS e JavaScript na interface; Python com Flask no servidor; e SQLite para armazenar os dados. Comece com o essencial e adicione melhorias conforme o tempo disponível.
+
+
+ENTREGÁVEIS:
+
+
+- Interface responsiva com formulário e lista de tarefas.
+- Aplicação Flask com operações para criar, visualizar, atualizar e excluir tarefas.
+- Repositório no GitHub com instruções claras de instalação, execução e uso.
+
+
+CRITÉRIOS DE ACEITAÇÃO:
+
+
+- É possível cadastrar, listar, editar e excluir tarefas.
+- Os dados continuam disponíveis após encerrar e reiniciar a aplicação.
+- O README explica o projeto e inclui imagens ou uma demonstração de uso.
+
+
+DICA: Divida o projeto em pequenas etapas: primeiro a página, depois as rotas, em seguida o banco de dados e, por fim, a integração. Faça commits frequentes e descreva o que aprendeu.
+
+
+💬 ROTEIRO DE ENTREVISTAS
+
+
+PERGUNTA 1: Por que você quer trabalhar com desenvolvimento de software?
+
+COMO RESPONDER:
+
+“Estou começando na área e gosto de resolver problemas criando soluções com código. Tenho estudado Python, front-end e SQL, e estou aplicando esses fundamentos em projetos próprios. Busco uma oportunidade júnior em que possa contribuir, aprender com a equipe e evoluir.”
+
+
+PERGUNTA 2: Como você costuma resolver um problema de programação?
+
+COMO RESPONDER:
+
+“Primeiro tento entender o resultado esperado e separo o problema em partes menores. Depois implemento uma parte de cada vez, testo com exemplos e leio as mensagens de erro. Se não resolver, consulto a documentação e explico com clareza o que já tentei.”
+
+
+PERGUNTA 3: Qual é a diferença entre HTML, CSS e JavaScript?
+
+COMO RESPONDER:
+
+“HTML estrutura o conteúdo da página, CSS controla sua apresentação e JavaScript adiciona comportamento e interatividade. No meu projeto, por exemplo, posso usar HTML para o formulário, CSS para o layout e JavaScript para responder às ações do usuário.”
+
+
+PERGUNTA 4: O que é uma chave primária em um banco de dados?
+
+COMO RESPONDER:
+
+“É um campo que identifica de forma única cada registro de uma tabela. Em uma tabela de tarefas, por exemplo, um identificador permite distinguir uma tarefa das outras e facilita consultá-la ou atualizá-la.”
+
+
+PERGUNTA 5: Conte sobre um projeto que você desenvolveu ou está desenvolvendo.
+
+COMO RESPONDER:
+
+“Estou desenvolvendo um organizador de tarefas de estudo com uma interface web, um servidor em Python e um banco de dados SQLite. Quero permitir que a pessoa cadastre e acompanhe tarefas. Estou construindo por etapas e testando cada funcionalidade; assim também pratico integração entre as tecnologias.”
+
+
+🎓 TRILHA DIO RECOMENDADA
+
+
+TRILHA: Formação Python Developer, complementada por conteúdos de desenvolvimento front-end e banco de dados SQL disponíveis na DIO.
+
+
+POR QUE ESSA TRILHA:
+
+Python é a base do foco principal deste plano e pode ser usado para desenvolver a parte de servidor do projeto. Os conteúdos de front-end e SQL complementam a trilha para que você pratique a construção de uma aplicação web completa. Os nomes e a disponibilidade das formações podem variar no catálogo da DIO.
+
+
+PRÓXIMOS PASSOS:
+
+
+1. Acesse dio.me
+2. Busque por “Formação Python Developer”
+3. Inscreva-se gratuitamente
+4. Siga o cronograma junto com este roadmap e complemente seus estudos com front-end e SQL
+
+
+✨ Seu plano está pronto!
+
+
+Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e avance no seu ritmo.
+
+
+Tem alguma dúvida sobre o plano? Posso detalhar alguma parte específica?
+
+
+
+
+
+
+
+20m ago · Copilot Fusion · gpt-6-luna
+
+
+
+
+
+
+
+
+
+
+
+## You said: podemos adcionar o git-hub e subir o cronograma para 120 dias
+
+podemos adcionar o git-hub e subir o cronograma para 120 dias
+
+
+
+
+
+
+
+19m ago
+
+
+
+
+
+
+
+
+
+## Copilot said: Sim — vamos ampliar para **120 dias** e incluir **Git e GitHub** desde o início. Com 18 horas por semana,…
+
+Thought for 19s
+
+
+
+Sim — vamos ampliar para **120 dias** e incluir **Git e GitHub** desde o início. Com 18 horas por semana, você terá cerca de 300 horas para estudar e construir seu portfólio. O Git ajuda a controlar as mudanças no código; o GitHub permite publicar seus projetos e mostrar sua evolução a recrutadores.
+
+
+🧠 **AJUSTE NO MAPA DE SKILLS**
+
+
+**CORE SKILLS (essenciais):**
+
+
+- Lógica de programação e fundamentos de Python.
+- HTML, CSS e JavaScript para interfaces web.
+- SQL, Git e GitHub para trabalhar com dados e versionar projetos.
+
+
+**FERRAMENTAS E TECNOLOGIAS:**
+
+
+- Python, Flask e SQLite; depois, noções de PostgreSQL.
+- HTML, CSS e JavaScript; React como conteúdo extra.
+- Git, GitHub e Visual Studio Code.
+
+
+📅 **ROADMAP DE 120 DIAS**
+
+
+**ADAPTADO PARA: 18 horas/semana**
+
+
+### MÊS 1 — FUNDAMENTOS
+
+
+**SEMANA 1-2:**
+
+
+- Estudar lógica de programação, variáveis, condições, repetições e funções com Python.
+- Aprender o básico de Git: repositório, `status`, `add`, `commit` e `log`; criar uma conta no GitHub e publicar seus exercícios.
+
+
+**SEMANA 3-4:**
+
+
+- Praticar listas, dicionários, arquivos e tratamento básico de erros em Python.
+- Aprender HTML e CSS; criar uma página pessoal e publicar o código em um repositório GitHub com um README simples.
+
+
+### MÊS 2 — DESENVOLVIMENTO WEB E BANCO DE DADOS
+
+
+**SEMANA 5-6:**
+
+
+- Aprender JavaScript básico, manipulação do DOM e eventos; adicionar interações à página pessoal.
+- Praticar no GitHub com commits frequentes e descritivos, além de aprender a criar uma branch e integrá-la ao projeto.
+
+
+**SEMANA 7-8:**
+
+
+- Estudar SQL: tabelas, consultas, filtros, ordenação e operações de cadastro, consulta, atualização e exclusão.
+- Aprender fundamentos de Flask e criar rotas para uma aplicação simples.
+
+
+### MÊS 3 — PROJETO DE PORTFÓLIO
+
+
+**SEMANA 9-10:**
+
+
+- Criar o organizador de tarefas de estudo, conectando Flask a um banco SQLite.
+- Usar GitHub para acompanhar o projeto: organizar o repositório, registrar tarefas pendentes e documentar o progresso.
+
+
+**SEMANA 11-12:**
+
+
+- Completar as funções de cadastro, listagem, edição e exclusão; validar dados e tratar erros.
+- Testar as funcionalidades principais e corrigir problemas, mantendo o código versionado com commits claros.
+
+
+### MÊS 4 — FINALIZAÇÃO E PREPARAÇÃO PARA VAGAS
+
+
+**SEMANA 13-14:**
+
+
+- Revisar o projeto, melhorar a interface e finalizar o README com descrição, instruções de execução e imagens.
+- Organizar seu perfil do GitHub: destacar o projeto principal, fixar repositórios relevantes e manter uma apresentação profissional.
+
+
+**SEMANA 15-17:**
+
+
+- Revisar Python, front-end, SQL, Git e GitHub; treinar explicar o projeto e suas decisões técnicas.
+- Simular entrevistas, preparar respostas para perguntas comuns e candidatar-se a vagas júnior ou de estágio.
+
+
+🚀 **AJUSTE NO PROJETO DE PORTFÓLIO**
+
+
+**ENTREGÁVEIS:**
+
+
+- Aplicação web com interface, servidor Flask e banco SQLite.
+- Repositório público no GitHub com README, instruções de instalação e imagens ou demonstração.
+- Histórico de commits que mostre a evolução do projeto.
+
+
+**CRITÉRIO DE ACEITAÇÃO ADICIONAL:**
+
+
+- Outra pessoa consegue encontrar o projeto no GitHub, entender para que serve e seguir as instruções do README para executá-lo.
+
+
+**DICA:** Faça commits pequenos sempre que concluir uma etapa, com mensagens que expliquem a mudança — por exemplo, `Adiciona cadastro de tarefas` ou `Corrige filtro por prioridade`.
+
+
+
+
+
+
+
+13m ago · Copilot Fusion · gpt-6-luna
+
+
+
+
+
+
+
+
+
+
+
+## You said: poderia por o git hub em primeiro
+
+poderia por o git hub em primeiro
+
+
+
+
+
+
+
+12m ago
+
+
+
+
+
+
+
+## Copilot said: Claro — **Git e GitHub ficam como o primeiro passo do cronograma**. Assim, desde o começo você já registra seus…
+
+Thought for 14s
+
+
+
+Claro — **Git e GitHub ficam como o primeiro passo do cronograma**. Assim, desde o começo você já registra seus estudos e publica o que for construindo.
+
+
+**SEMANA 1-2 — GIT E GITHUB + PRIMEIROS EXERCÍCIOS**
+
+
+- Criar ou organizar sua conta e seu perfil no GitHub; criar um repositório para os estudos com um README.
+- Aprender o básico de Git: `status`, `add`, `commit` e `push`; publicar nesse repositório seus primeiros exercícios de lógica em Python.
+
+
+Depois, o cronograma segue com Python, HTML/CSS, JavaScript, SQL e Flask, sempre versionando e publicando seu progresso no GitHub.
