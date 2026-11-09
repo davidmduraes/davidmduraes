@@ -29,7 +29,7 @@ Swagger interativo: `http://localhost:3000/api-docs`. Especificação OpenAPI: `
 
 ## Autenticação
 
-Todas as rotas CRUD exigem `Authorization: Bearer <token>`. O servidor verifica assinatura, validade e algoritmo HS256 usando `JWT_SECRET`. O repositório não contém usuários, login, emissão nem renovação de tokens; estes devem ser fornecidos por um provedor confiável que compartilhe o segredo. Token ausente, malformado, inválido ou expirado retorna `401 Unauthorized`. Não publique o segredo nem use o valor de exemplo em produção.
+As rotas de produtos exigem um JWT válido no cabeçalho `Authorization: Bearer <token>`. Esta API apenas valida tokens emitidos por um serviço de autenticação externo; não oferece endpoints de login nem emite tokens. Configure `JWT_SECRET` com o segredo compartilhado com o emissor. Tokens ausentes, inválidos ou expirados retornam `401 Unauthorized`; não publique o segredo nem use o valor de exemplo em produção.
 
 ## Endpoints
 
